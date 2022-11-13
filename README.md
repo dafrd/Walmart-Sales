@@ -1,5 +1,7 @@
 # Walmart-Sales
 
+Explanatory video : https://share.vidyard.com/watch/b6kDLHwEMSaCWk6xVKqScu?
+
 Walmart : predict weekly sales
 Company's Description 📇
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
